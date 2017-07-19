@@ -63,3 +63,6 @@ true에서 false로 바꾸기
 제거하기
 ```
 turbolinks 제거하기
+## 참고 사이트
+[jqery.ajax](http://api.jquery.com/jquery.ajax/)<br>
+[괜찮은 블로그](http://wantknow.tistory.com/71)
